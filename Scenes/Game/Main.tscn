@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=3 uid="uid://csduolpu4m10g"]
 
 [ext_resource type="Script" uid="uid://den7pjp7aagei" path="res://Scenes/Game/Main.gd" id="1_r8xbm"]
-[ext_resource type="Texture2D" uid="uid://bbn4wun0ue4nn" path="res://TestScripts/ogsarıbugatti.jpg" id="2_c6dyv"]
+[ext_resource type="Texture2D" uid="uid://ccrlicv4i6dre" path="res://assets/GameBg.png" id="2_c6dyv"]
 [ext_resource type="PackedScene" uid="uid://n7b1ctt4m4o2" path="res://Scenes/Paddle/Paddle.tscn" id="3_cyew3"]
 [ext_resource type="AudioStream" uid="uid://c0dmm16b5av4u" path="res://assets/bgm_action_5.mp3" id="4_y4a8c"]
 [ext_resource type="AudioStream" uid="uid://b4fcdckc1sknx" path="res://assets/spell1_0.wav" id="5_c6dyv"]
